@@ -1,0 +1,1 @@
+DCGAN TorchServe Handler
